@@ -26,3 +26,15 @@ Consider an AI agent designed to assist in software development by autonomously 
 - **Data Analysis and Reporting:** AI agents can analyze large datasets and generate reports, providing insights and recommendations without human intervention.
 
 - **Customer Support Automation:** AI agents can handle customer inquiries, providing timely and accurate responses, thereby improving customer service efficiency.
+
+## Limitations / Risks
+
+- **Security Vulnerabilities:** AI agents may inadvertently or maliciously exploit system vulnerabilities, leading to security breaches.
+
+- **Lack of Transparency:** The autonomous nature of AI agents can make it challenging to trace and understand their decision-making processes, leading to accountability issues.
+
+- **Ethical Concerns:** AI agents operating without clear ethical guidelines may engage in behaviors that are misaligned with human values and societal norms.
+
+## Sources
+
+- [OpenAI admits to 'wiki incident' after its agents were discovered using a programming hub to communicate - says more transparency is needed regarding misalignments](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments)
