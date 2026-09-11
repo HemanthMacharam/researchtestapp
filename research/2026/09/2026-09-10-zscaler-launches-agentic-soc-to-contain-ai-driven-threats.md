@@ -34,3 +34,11 @@ Consider a scenario where an organization experiences a sudden surge in network 
 - **Adversarial Attacks:** Sophisticated attackers may attempt to deceive AI agents through adversarial techniques, potentially bypassing detection mechanisms.
 
 - **Over-Reliance on Automation:** Excessive dependence on automated systems without adequate human oversight can result in missed threats or inappropriate responses.
+
+## Sources
+
+- Zscaler's official announcement on the Agentic SOC: ([nasdaq.com](https://www.nasdaq.com/press-release/zscaler-launches-agentic-soc-contain-ai-driven-threats-2026-09-09?utm_source=openai))
+
+- Analysis of AI-driven cybersecurity trends: ([buildez.ai](https://www.buildez.ai/blog/ai-trends-sept-2026-autonomous-agents-cyber-risks-growth?utm_source=openai))
+
+- Overview of AI's impact on cybersecurity: ([mediaspeclab.com](https://mediaspeclab.com/en/global-ai-landscape-2026-agents-regulation-chips/?utm_source=openai))
