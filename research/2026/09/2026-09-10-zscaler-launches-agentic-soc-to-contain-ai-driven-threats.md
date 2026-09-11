@@ -18,3 +18,19 @@ Zscaler's Agentic SOC is built upon a unified telemetry framework that provides 
 ## Practical Example
 
 Consider a scenario where an organization experiences a sudden surge in network traffic indicative of a potential Distributed Denial of Service (DDoS) attack. With Zscaler's Agentic SOC, the AI agents would immediately analyze the traffic patterns, identify the attack vectors, and initiate automated mitigation strategies, such as traffic filtering or rate limiting, to neutralize the threat. This rapid, automated response minimizes the impact of the attack and reduces the reliance on manual intervention.
+
+## Use Cases
+
+- **Real-Time Threat Detection:** AI agents can continuously monitor network traffic to identify and respond to threats as they occur, reducing the window of opportunity for attackers.
+
+- **Automated Incident Response:** By automating the response to common security incidents, organizations can free up human resources to focus on more complex tasks.
+
+- **Proactive Exposure Reduction:** AI agents can analyze historical data to identify potential vulnerabilities and recommend or implement measures to mitigate them before they are exploited.
+
+## Limitations / Risks
+
+- **False Positives:** AI agents may occasionally misidentify benign activities as threats, leading to unnecessary alerts and potential disruptions.
+
+- **Adversarial Attacks:** Sophisticated attackers may attempt to deceive AI agents through adversarial techniques, potentially bypassing detection mechanisms.
+
+- **Over-Reliance on Automation:** Excessive dependence on automated systems without adequate human oversight can result in missed threats or inappropriate responses.
