@@ -18,3 +18,15 @@ Situational Awareness's investment strategy was heavily concentrated on the beli
 ## Practical Example
 
 Consider an investor who allocates a significant portion of their portfolio to a startup developing AGI technologies, based on the belief that AGI will revolutionize industries within the next few years. If the anticipated technological breakthrough does not occur within the expected timeframe, the startup's valuation may decline, leading to substantial financial losses for the investor. This scenario mirrors the situation faced by Aschenbrenner, where overconfidence in AGI's imminent arrival led to over-leveraged investments and significant financial loss.
+
+## Use Cases
+
+- **Investment Strategy:** Investors should diversify their portfolios and avoid over-concentration in speculative technologies without proven timelines.
+- **Regulatory Oversight:** Regulators can use this case to assess the need for oversight in investment strategies heavily reliant on emerging technologies.
+- **Risk Management:** Financial institutions can develop risk management frameworks to assess and mitigate the risks associated with investments in speculative technologies.
+
+## Limitations / Risks
+
+- **Market Volatility:** Investments based on unproven technological timelines are subject to high volatility and potential loss.
+- **Regulatory Challenges:** The rapid pace of technological advancement can outstrip existing regulatory frameworks, leading to challenges in oversight.
+- **Speculative Bubbles:** Overconfidence in emerging technologies can lead to speculative bubbles, resulting in significant financial losses when expectations are not met.
