@@ -30,3 +30,7 @@ Consider an investor who allocates a significant portion of their portfolio to a
 - **Market Volatility:** Investments based on unproven technological timelines are subject to high volatility and potential loss.
 - **Regulatory Challenges:** The rapid pace of technological advancement can outstrip existing regulatory frameworks, leading to challenges in oversight.
 - **Speculative Bubbles:** Overconfidence in emerging technologies can lead to speculative bubbles, resulting in significant financial losses when expectations are not met.
+
+## Sources
+
+- [The 24-Year-Old Who Lost Billions](https://www.theatlantic.com/ideas/2026/09/aschenbrenner-ai-future/688493/?utm_source=openai)
