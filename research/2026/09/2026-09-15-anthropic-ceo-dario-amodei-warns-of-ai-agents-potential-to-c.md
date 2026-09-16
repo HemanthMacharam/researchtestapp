@@ -36,3 +36,11 @@ Consider a scenario where an AI agent is deployed to manage network security for
 - **Security Vulnerabilities:** If not properly secured, AI agents can be exploited by malicious actors to gain unauthorized access to systems and data.
 
 - **Ethical Concerns:** The deployment of AI agents in sensitive areas raises ethical questions regarding accountability, transparency, and the potential for bias in decision-making processes.
+
+## Sources
+
+- [Anthropic CEO Dario Amodei Warns of AI Agents' Potential to Control the Internet](https://www.theatlantic.com/technology/2026/09/dario-amodei-slow-down-ai-save-humanity/688610/?utm_source=openai)
+
+- [Anthropic CEO Dario Amodei Urges AI Industry to Decelerate Development for Safety Measures](https://apnews.com/article/d59552edcb27892d8ee4d98a48397706)
+
+- [The OpenAI-Hugging Face Hack Was Just the Beginning, Experts Say: "Even More Powerful" AI Is Coming](https://www.cbsnews.com/news/openai-hugging-face-hack-ai-risks/)
