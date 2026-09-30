@@ -58,3 +58,42 @@ By integrating Dots into her workflow, Sarah experiences a more organized and ef
 
 4. **Education:**
    Educators can use Dots to track student progress, identify learning gaps, and suggest personalized learning materials. This supports differentiated instruction and improved student performance.
+
+## Limitations / Risks
+
+1. **Data Privacy Concerns:**
+   The proactive nature of Dots requires access to sensitive information, raising potential privacy issues. Ensuring robust data protection measures is essential to maintain user trust.
+
+2. **Over-Reliance on AI:**
+   Dependence on AI assistants like Dots may lead to reduced human oversight, potentially resulting in errors or missed nuances that a human might catch.
+
+3. **Security Vulnerabilities:**
+   As with any AI system, Dots could be susceptible to hacking or exploitation. Implementing strong security protocols is crucial to prevent unauthorized access or misuse.
+
+4. **Bias in AI Decision-Making:**
+   If not properly trained, Dots could inadvertently perpetuate biases present in their training data, leading to unfair or discriminatory outcomes.
+
+## Sources
+
+- [OpenAI debuts dots, its assistant to take on Muse](https://www.axios.com/2026/09/29/openai-dots-ai-assistant-devday)
+- [Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns](https://apnews.com/article/77b6b8888145869206996d7509d24256)
+- [OpenAI and Anthropic are reportedly investigating tens of thousands of AI security incidents; OpenAI pauses testing after AI 'kill switch' fails to stop a rogue agent](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known)
+- [Massive Chinese hack uses AI agents to steal over 600,000 credit cards and hit hundreds of sites with malware](https://www.techradar.com/pro/security/massive-chinese-hack-uses-ai-agents-to-steal-over-600-000-credit-cards-and-hit-hundreds-of-sites-with-malware)
+- [Meta Muse runs agents on AMD EPYC Turin hosts with two cores and 8GB of memory](https://www.tomshardware.com/pc-components/cpus/meta-muse-runs-agents-on-amd-epyc-turin-hosts-with-two-cores-and-8gb-of-memory-ai-agent-can-pass-terminal-commands-to-ubuntu-host-system)
+- [Nvidia says new tool can contain rogue AI agents in "milliseconds"](https://www.axios.com/2026/09/28/nvidia-ai-agent-safety)
+- [Nvidia unveils security platform to stop AI agents from going rogue](https://apnews.com/article/3c4d7c1cfde82851c0577d1fa29b8621)
+- [OpenAI agent allegedly hacks Australian government healthcare website](https://www.techradar.com/pro/security/this-situation-is-obviously-unacceptable-openai-agent-allegedly-hacks-australian-government-healthcare-website)
+- [Why AI agent governance must start with enterprise data](https://www.techradar.com/pro/why-ai-agent-governance-must-start-with-enterprise-data)
+- [Nvidia is touting a software tool to contain runaway AI. How would it work?](https://apnews.com/article/a4cfc84ed00353ff8f2dad4bed7b429e)
+- [GoodData joins agentic AI development mix with Agent Builder](https://www.techtarget.com/data-technologies/news/366642398/GoodData-joins-agentic-AI-development-mix-with-AgentBuilder)
+- [IAS LAUNCHES 'IAS AGENT' ENABLING MARKETERS TO SURFACE DEEP CAMPAIGN INSIGHTS IN REAL-TIME AND INCREASE AD PERFORMANCE](https://www.prnewswire.com/news-releases/ias-launches-ias-agent-enabling-marketers-to-surface-deep-campaign-insights-in-real-time-and-increase-ad-performance-302643190.html)
+- [Teradata's AgentStack aims to simplify building, managing AI](https://www.techtarget.com/data-technologies/news/366637641/Teradatas-AgentStack-aims-to-simplify-building-managing-AI)
+- [Dataiku Unveils Agent Management to Track Enterprise AI Agents Across Platforms](https://www.hpcwire.com/bigdatawire/this-just-in/dataiku-unveils-agent-management-to-track-enterprise-ai-agents-across-platforms/)
+- [SERHANT. S.MPLE 2.0: An AI That Runs Agents' Days Unveiled](https://www.inman.com/2026/09/23/serhant-simple-2-0-ai-real-estate-agents/)
+- ['What if the AI agent you just deployed was secretly working against you?': Vertex AI 'double agent' flaw exposes customer data and Google's internal code](https://www.techradar.com/pro/security/what-if-the-ai-agent-you-just-deployed-was-secretly-working-against-you-vertex-ai-double-agent-flaw-exposes-customer-data-and-googles-internal-code)
+- [Teradata unveils AgentBuilder to aid agentic AI development](https://www.techtarget.com/data-technologies/news/366631543/Teradata-unveils-AgentBuilder-to-aid-agentic-AI-development)
+- [Dataiku Ships Standalone Agent Governance With a Bet That Cross-Platform Beats Native](https://tech.yahoo.com/ai/copilot/articles/dataiku-ships-standalone-agent-governance-215619007.html)
+- [Dataiku Wins Most Innovative Agent Development Platform in SiliconANGLE Media’s Tech Innovation CUBEd Awards](https://www.recorderonline.marketminute.com/article/bizwire-2026-2-24/dataiku-wins-most-innovative-agent-development-platform-in-siliconangle-medias-tech-innovation-cubed-awards)
+- [Agentist — a daily on the agent frontier · by Parallight](https://agentist.org/)
+- [Data Agents: Agentic Data Systems](https://arxiv.org/abs/2609.24137)
+- [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176)
