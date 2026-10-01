@@ -26,3 +26,16 @@ Consider a user named Alex, a project manager overseeing multiple teams. Alex in
 - **Customer Support:** Businesses can deploy Dots to handle customer inquiries, resolve issues, and provide consistent support, improving customer satisfaction and reducing operational costs.
 
 - **Healthcare Management:** In healthcare settings, Dots can assist medical professionals by managing patient records, scheduling appointments, and providing reminders for patient care, ensuring timely and efficient service delivery.
+
+## Limitations / Risks
+
+- **Autonomy and Control:** The always-on nature of Dots raises concerns about user control and the potential for unintended actions. Ensuring that Dots operate within predefined boundaries is crucial to prevent unauthorized behaviors.
+
+- **Privacy Concerns:** Continuous monitoring by Dots could lead to privacy issues, as sensitive information might be accessed or processed without explicit consent.
+
+- **Dependence on Technology:** Over-reliance on AI agents like Dots may result in diminished human oversight and critical thinking, potentially leading to errors or oversights.
+
+## Sources
+
+- [OpenAI's new agents put safety promises to the test](https://www.axios.com/2026/09/30/openai-dots-ai-agent-safety)
+- [Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns](https://apnews.com/article/77b6b8888145869206996d7509d24256)
