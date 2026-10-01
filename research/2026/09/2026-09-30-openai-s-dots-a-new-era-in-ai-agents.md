@@ -14,3 +14,15 @@ The launch of Dots represents a pivotal moment in the evolution of AI agents. By
 ## Technical Details
 
 Dots are designed to operate continuously, providing real-time assistance across various applications. They integrate advanced natural language processing capabilities, enabling them to understand and respond to user queries with context-aware precision. The agents are built upon OpenAI's latest models, incorporating robust safety measures to prevent unintended behaviors. These safeguards include integration with existing systems like ChatGPT and Codex, as well as an internal monitoring system known as Guardian (publicly referred to as Auto-review). ([axios.com](https://www.axios.com/2026/09/30/openai-dots-ai-agent-safety?utm_source=openai))
+
+## Practical Example
+
+Consider a user named Alex, a project manager overseeing multiple teams. Alex integrates Dots into his daily workflow to streamline communication and task management. Throughout the day, Dots monitors project timelines, identifies potential bottlenecks, and proactively suggests solutions. For instance, if a team is falling behind on a deadline, Dots might recommend reallocating resources or adjusting the project schedule. Additionally, Dots can draft emails, schedule meetings, and provide real-time updates on project statuses, allowing Alex to focus on strategic decision-making.
+
+## Use Cases
+
+- **Enterprise Productivity:** In corporate environments, Dots can assist employees by automating routine tasks, managing schedules, and providing data-driven insights, thereby enhancing overall productivity.
+
+- **Customer Support:** Businesses can deploy Dots to handle customer inquiries, resolve issues, and provide consistent support, improving customer satisfaction and reducing operational costs.
+
+- **Healthcare Management:** In healthcare settings, Dots can assist medical professionals by managing patient records, scheduling appointments, and providing reminders for patient care, ensuring timely and efficient service delivery.
