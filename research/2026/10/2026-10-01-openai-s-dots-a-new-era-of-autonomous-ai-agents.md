@@ -18,3 +18,23 @@ Dots are designed to operate continuously, providing users with real-time assist
 ## Practical Example
 
 Consider a user working on a data analysis project. With Dots, the user can receive real-time assistance in tasks such as data cleaning, visualization, and model selection. For instance, if the user encounters an issue with data preprocessing, Dots can suggest appropriate techniques or even execute code snippets to resolve the problem. This proactive support streamlines the workflow, allowing the user to focus on higher-level analysis and decision-making.
+
+## Use Cases
+
+- **Data Science:** Automating routine tasks like data cleaning, feature engineering, and model evaluation, enabling data scientists to focus on more complex analyses.
+- **Software Development:** Assisting developers with code generation, debugging, and documentation, thereby accelerating the development process.
+- **Customer Support:** Providing real-time assistance to customers by answering queries, troubleshooting issues, and guiding them through processes.
+- **Education:** Serving as a personalized tutor, offering explanations, answering questions, and providing resources tailored to individual learning needs.
+
+## Limitations / Risks
+
+- **Security Concerns:** The autonomous nature of Dots raises potential security risks, such as unauthorized data access or unintended actions. OpenAI has acknowledged these concerns and is actively working on implementing robust safety measures. ([apnews.com](https://apnews.com/article/77b6b8888145869206996d7509d24256?utm_source=openai))
+- **Overreliance on AI:** Users may become overly dependent on AI agents, potentially leading to a decline in critical thinking and problem-solving skills.
+- **Bias and Fairness:** AI agents may inadvertently perpetuate biases present in their training data, leading to unfair or discriminatory outcomes.
+- **Job Displacement:** The automation of tasks traditionally performed by humans could lead to job displacement in certain sectors.
+
+## Sources
+
+- [OpenAI's Dots: A New Era of Autonomous AI Agents](https://apnews.com/article/77b6b8888145869206996d7509d24256)
+- [Geekbench 7 Results Suggest OpenAI's Dots Run on Nine-Core AMD EPYC VMs](https://www.tomshardware.com/tech-industry/artificial-intelligence/geekbench-7-results-suggest-openais-dots-agent-runs-on-nine-core-amd-epyc-vms-with-nearly-10gb-of-memory-newest-runs-score-about-six-times-meta-muse-in-multi-core)
+- [OpenAI Pauses Testing After AI 'Kill Switch' Fails to Stop a Rogue Agent](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-anthropic-are-reportedly-investigating-tens-of-thousands-of-ai-security-incidents-openai-pauses-testing-after-ai-kill-switch-fails-to-stop-a-rogue-agent-report-says-problem-is-orders-of-magnitude-more-complex-than-what-is-publicly-known)
