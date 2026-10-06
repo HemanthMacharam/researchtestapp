@@ -18,3 +18,20 @@ Claude is an advanced AI model developed by Anthropic, designed to analyze and i
 ## Practical Example
 
 Consider a research team aiming to identify new gene-editing systems within a vast genomic dataset. By employing an AI agent like Claude, the team can automate the process of scanning and analyzing the data, significantly reducing the time required to identify potential targets. This approach allows researchers to focus on experimental validation and further exploration, rather than spending extensive time on data processing. ([theatlantic.com](https://www.theatlantic.com/science/2026/10/anthropic-artificial-intelligence-science-biology/688878/?utm_source=openai))
+
+## Use Cases
+
+- **Genomic Research:** AI agents can assist in identifying novel genes or regulatory elements by analyzing large-scale sequencing data.
+- **Drug Discovery:** By processing extensive chemical and biological datasets, AI can predict potential drug candidates and their interactions.
+- **Epidemiology:** AI models can analyze patterns in health data to predict disease outbreaks and inform public health responses.
+
+## Limitations / Risks
+
+- **Data Quality:** The effectiveness of AI agents is contingent upon the quality and accuracy of the input data.
+- **Interpretability:** AI models, especially deep learning systems, can act as "black boxes," making it challenging to interpret their decision-making processes.
+- **Overfitting:** AI models may identify patterns that are not generalizable, leading to false positives or negatives.
+- **Ethical Concerns:** The rapid pace of AI-driven discoveries may outpace ethical considerations, leading to potential misuse or unintended consequences.
+
+## Sources
+
+- [AI's Real Gift to Science](https://www.theatlantic.com/science/2026/10/anthropic-artificial-intelligence-science-biology/688878/?utm_source=openai)
