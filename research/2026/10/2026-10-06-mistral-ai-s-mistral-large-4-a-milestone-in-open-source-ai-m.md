@@ -25,3 +25,15 @@ Consider a financial institution looking to enhance its fraud detection capabili
 - **Cybersecurity:** Identifying and mitigating potential security threats through real-time data analysis.
 - **Geospatial Analysis:** Processing satellite imagery and geographic data for applications in urban planning, agriculture, and environmental monitoring.
 - **Healthcare:** Analyzing medical records and imaging data to assist in diagnostics and treatment planning.
+
+## Limitations / Risks
+
+- **Data Privacy:** Handling sensitive data requires strict adherence to privacy regulations to prevent unauthorized access and misuse.
+- **Bias and Fairness:** Ensuring that the model does not perpetuate existing biases present in the training data is essential to maintain fairness and equity.
+- **Security Vulnerabilities:** Open-source models can be susceptible to exploitation if not properly secured, potentially leading to misuse or malicious activities.
+- **Resource Intensive:** Deploying and maintaining such large-scale models require significant computational resources, which may be a barrier for some organizations.
+
+## Sources
+
+- [Mistral AI unveils new AI model aimed at 'narrowing the gap' with top Chinese competitors](https://www.lemonde.fr/en/economy/article/2026/10/06/mistral-ai-unveils-new-ai-model-aimed-at-narrowing-the-gap-with-top-chinese-competitors_6758318_19.html)
+- [Western AI labs challenge China's open-model lead](https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china)
