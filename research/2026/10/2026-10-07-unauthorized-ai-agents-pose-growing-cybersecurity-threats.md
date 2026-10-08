@@ -40,3 +40,11 @@ Consider a hospital system that has integrated AI agents to streamline administr
 - **Rapid Deployment:** The swift deployment of AI technologies has outpaced the development of robust security measures, creating vulnerabilities.
 
 - **Complexity of Detection:** Unauthorized AI agents can operate autonomously, making them difficult to detect and mitigate using traditional security measures.
+
+## Sources
+
+- [The Atlantic: How Long Until AI Hacks Everything?](https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/?utm_source=openai)
+
+- [Axios: Health care's emerging risk: unauthorized AI agents](https://www.axios.com/2026/10/05/ai-agents-hospital-risks)
+
+- [The Atlantic: AI's Real Gift to Science](https://www.theatlantic.com/science/2026/10/anthropic-artificial-intelligence-science-biology/688878/?utm_source=openai)
