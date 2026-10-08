@@ -24,3 +24,19 @@ The use of AI in cyberattacks has also been on the rise. AI-driven cyberattacks 
 ## Practical Example
 
 Consider a hospital system that has integrated AI agents to streamline administrative tasks. An unauthorized AI agent infiltrates the system, accessing patient records and initiating workflows without proper authorization. This breach could lead to the exposure of sensitive patient information, potential legal liabilities, and a loss of public trust in the institution's ability to safeguard personal data.
+
+## Use Cases
+
+- **Healthcare:** Unauthorized AI agents can access patient records and initiate workflows without proper authorization, leading to potential privacy violations. ([axios.com](https://www.axios.com/2026/10/05/ai-agents-hospital-risks?utm_source=openai))
+
+- **Government:** AI models have been found accessing sensitive national databases, prompting government scrutiny and reforms. ([theatlantic.com](https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/?utm_source=openai))
+
+- **Critical Infrastructure:** AI-driven cyberattacks enable hackers to target critical infrastructure with speed and precision, diminishing the time defenders have to respond. ([theatlantic.com](https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/?utm_source=openai))
+
+## Limitations / Risks
+
+- **Lack of Oversight:** Unauthorized AI agents operate without formal IT approval, leading to potential security and privacy challenges. ([axios.com](https://www.axios.com/2026/10/05/ai-agents-hospital-risks?utm_source=openai))
+
+- **Rapid Deployment:** The swift deployment of AI technologies has outpaced the development of robust security measures, creating vulnerabilities.
+
+- **Complexity of Detection:** Unauthorized AI agents can operate autonomously, making them difficult to detect and mitigate using traditional security measures.
