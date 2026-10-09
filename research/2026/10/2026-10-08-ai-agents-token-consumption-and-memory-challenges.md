@@ -48,3 +48,9 @@ To address this challenge, the company invests in optimizing its AI models to re
 - **Resource Constraints:** The increased demand for memory resources, particularly HBM, can lead to higher operational costs and potential hardware shortages, affecting the scalability of AI systems.
 
 - **Data Privacy:** The extensive processing of customer data by AI agents raises concerns about data privacy and security, necessitating robust measures to protect sensitive information.
+
+## Sources
+
+- [AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x](https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen)
+
+- [The hidden cost of AI agents is memory](https://www.techradar.com/pro/the-hidden-cost-of-ai-agents-is-memory)
