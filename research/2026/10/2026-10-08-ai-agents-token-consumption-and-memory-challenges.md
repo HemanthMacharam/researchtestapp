@@ -32,3 +32,19 @@ Consider an AI-driven customer support system deployed by a large e-commerce com
 As the system scales to handle a growing customer base, the AI agents begin to rely heavily on cached prompts to generate responses. This reliance leads to a significant increase in token consumption, as the agents are repeatedly processing and reprocessing existing data. The company notices a rise in operational costs due to the increased demand for memory resources, particularly HBM, which is essential for the AI agents' performance.
 
 To address this challenge, the company invests in optimizing its AI models to reduce reliance on cached prompts, thereby decreasing token consumption. Additionally, they explore hardware solutions, such as upgrading to GPUs with higher HBM capacity, to accommodate the growing memory demands of their AI systems.
+
+## Use Cases
+
+- **Customer Support Automation:** AI agents can handle routine customer inquiries, process orders, and provide personalized recommendations, improving efficiency and customer satisfaction.
+
+- **Content Generation:** AI agents can assist in generating marketing materials, product descriptions, and other content by analyzing existing data and producing relevant outputs.
+
+- **Data Analysis:** AI agents can process large datasets to identify patterns, trends, and insights, supporting decision-making processes in various industries.
+
+## Limitations / Risks
+
+- **Efficiency Concerns:** The heavy reliance on cached prompts may limit the novelty and relevance of AI-generated outputs, potentially reducing the effectiveness of AI applications.
+
+- **Resource Constraints:** The increased demand for memory resources, particularly HBM, can lead to higher operational costs and potential hardware shortages, affecting the scalability of AI systems.
+
+- **Data Privacy:** The extensive processing of customer data by AI agents raises concerns about data privacy and security, necessitating robust measures to protect sensitive information.
