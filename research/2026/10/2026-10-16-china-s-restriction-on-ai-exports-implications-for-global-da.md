@@ -24,3 +24,15 @@ Consider a multinational corporation that has been utilizing Alibaba's Qwen 3.8-
 3. **Strategic Reorientation:** The company might need to invest in alternative AI solutions, either by developing in-house capabilities or sourcing from other vendors, which could involve significant time and financial resources.
 
 This scenario illustrates the cascading effects that such export restrictions can have on global businesses and the interconnected nature of the AI industry.
+
+## Use Cases
+
+1. **Government Surveillance:** Advanced AI models can be employed for monitoring and analyzing large volumes of data to detect and respond to security threats in real-time.
+2. **Healthcare Diagnostics:** AI systems can assist in analyzing medical images and patient data to provide accurate and timely diagnoses, improving patient outcomes.
+3. **Autonomous Vehicles:** AI agents are integral to the development of self-driving cars, enabling them to interpret sensor data and make driving decisions.
+
+## Limitations / Risks
+
+1. **Innovation Stagnation:** Restricting access to advanced AI technologies could slow down global innovation, as researchers and developers may have limited access to cutting-edge tools and models.
+2. **Supply Chain Disruptions:** Companies dependent on Chinese AI models may face operational challenges, including the need to find alternative solutions or develop new partnerships.
+3. **Geopolitical Tensions:** Such export restrictions can exacerbate international tensions, leading to retaliatory measures and further fragmentation in the global technology landscape.
