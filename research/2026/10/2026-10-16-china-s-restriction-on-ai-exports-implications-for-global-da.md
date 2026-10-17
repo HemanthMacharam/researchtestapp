@@ -36,3 +36,7 @@ This scenario illustrates the cascading effects that such export restrictions ca
 1. **Innovation Stagnation:** Restricting access to advanced AI technologies could slow down global innovation, as researchers and developers may have limited access to cutting-edge tools and models.
 2. **Supply Chain Disruptions:** Companies dependent on Chinese AI models may face operational challenges, including the need to find alternative solutions or develop new partnerships.
 3. **Geopolitical Tensions:** Such export restrictions can exacerbate international tensions, leading to retaliatory measures and further fragmentation in the global technology landscape.
+
+## Sources
+
+- [China moves to curb tech exports, including AI, citing national security risks](https://apnews.com/article/5ac381c0c6d6628bbea2e0da7d855a5b)
