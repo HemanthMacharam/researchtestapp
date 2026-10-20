@@ -37,3 +37,7 @@ Consider a financial institution that requires real-time processing of vast amou
 - **Infrastructure Requirements:** The scale of the Helion Agentic AI Rack may necessitate significant upgrades to existing data centers, including enhanced power, cooling, and networking capabilities.
 - **Cost Implications:** The advanced hardware components and modular design could result in a high initial investment, potentially limiting accessibility for smaller organizations.
 - **Complexity of Integration:** Integrating such a sophisticated system into existing IT environments may require specialized expertise and could involve a steep learning curve.
+
+## Sources
+
+- [AMD's Helion Agentic AI Rack: A New Era in AI Infrastructure](https://www.techradar.com/pro/32-768-cores-and-74-petaflops-amds-monster-new-rack-for-ai-agents-could-be-too-much-for-traditional-data-centers)
