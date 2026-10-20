@@ -24,3 +24,16 @@ The system's modular design allows for customized server configurations, caterin
 ## Practical Example
 
 Consider a financial institution that requires real-time processing of vast amounts of transactional data to detect fraudulent activities. Deploying the Helion Agentic AI Rack would enable the institution to run complex AI models at scale, analyzing transactions in real-time and identifying anomalies with high accuracy. The system's modularity allows the institution to tailor the infrastructure to its specific needs, ensuring optimal performance and efficiency.
+
+## Use Cases
+
+- **Financial Services:** Real-time fraud detection and risk assessment
+- **Healthcare:** Processing and analyzing large-scale medical imaging data
+- **Autonomous Vehicles:** Real-time data processing for navigation and decision-making
+- **Telecommunications:** Network optimization and predictive maintenance
+
+## Limitations / Risks
+
+- **Infrastructure Requirements:** The scale of the Helion Agentic AI Rack may necessitate significant upgrades to existing data centers, including enhanced power, cooling, and networking capabilities.
+- **Cost Implications:** The advanced hardware components and modular design could result in a high initial investment, potentially limiting accessibility for smaller organizations.
+- **Complexity of Integration:** Integrating such a sophisticated system into existing IT environments may require specialized expertise and could involve a steep learning curve.
