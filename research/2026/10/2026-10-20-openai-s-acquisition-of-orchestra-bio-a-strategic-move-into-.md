@@ -18,3 +18,19 @@ Orchestra Bio specializes in developing AI tools that assist pharmaceutical comp
 ## Practical Example
 
 Consider a pharmaceutical company aiming to develop a new drug for a specific disease. By utilizing OpenAI's Rosalind platform, integrated with Orchestra Bio's AI tools, the company can automate data analysis, identify potential drug candidates, and predict their efficacy and safety profiles. This approach can significantly reduce the time and resources required for drug development, leading to faster delivery of new treatments to patients. ([axios.com](https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development?utm_source=openai))
+
+## Use Cases
+
+- **Drug Discovery:** AI agents can analyze vast datasets to identify potential drug candidates, predict their interactions, and assess their efficacy.
+- **Clinical Trials:** AI can optimize clinical trial designs, patient recruitment, and monitoring, improving trial outcomes and efficiency.
+- **Personalized Medicine:** AI agents can analyze patient data to recommend personalized treatment plans, enhancing therapeutic effectiveness.
+
+## Limitations / Risks
+
+- **Data Privacy:** Handling sensitive patient data requires strict adherence to privacy regulations to prevent breaches.
+- **Bias in AI Models:** AI models trained on biased data can lead to inaccurate predictions, affecting patient safety.
+- **Regulatory Challenges:** Integrating AI into drug development processes may face regulatory hurdles, requiring thorough validation and compliance.
+
+## Sources
+
+- [OpenAI acquires biotech startup as AI race moves into drug development](https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development)
