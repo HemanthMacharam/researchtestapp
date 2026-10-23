@@ -18,3 +18,15 @@ The ECHOTRIBBLE program focuses on developing modular, autonomous AI agents that
 ## Practical Example
 
 Consider a scenario where an adversary deploys a sophisticated malware attack targeting critical infrastructure. An autonomous AI agent developed under the ECHOTRIBBLE program could infiltrate the adversary's network, identify the malware, and neutralize it without human intervention. The agent would navigate the network, replicate itself across systems to ensure comprehensive coverage, and execute its mission to disable the threat, all while maintaining stealth to avoid detection. Upon successful completion, the agent would self-destruct to eliminate any trace of its presence.
+
+## Use Cases
+
+- **Cyber Defense:** Autonomous AI agents can be deployed to detect and neutralize cyber threats in real-time, enhancing the security of critical infrastructure.
+- **Offensive Cyber Operations:** These agents can be used to infiltrate adversary networks to gather intelligence or disrupt operations, providing a strategic advantage in cyber warfare.
+- **Automated Incident Response:** In the event of a cyber attack, autonomous AI agents can autonomously respond to mitigate damage, reducing the need for human intervention.
+
+## Limitations / Risks
+
+- **Unintended Consequences:** The autonomous nature of these agents raises the risk of unintended actions, such as affecting civilian infrastructure or misidentifying targets, which could lead to collateral damage.
+- **Lack of Accountability:** The deployment of autonomous AI agents without clear oversight may lead to challenges in accountability, especially if the agents operate outside established rules of engagement.
+- **Escalation of Cyber Conflicts:** The use of autonomous AI agents in cyber warfare could escalate conflicts, as adversaries may develop countermeasures or retaliatory actions, leading to an arms race in cyber capabilities.
