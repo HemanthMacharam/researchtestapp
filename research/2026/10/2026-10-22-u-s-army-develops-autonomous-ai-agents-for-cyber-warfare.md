@@ -30,3 +30,7 @@ Consider a scenario where an adversary deploys a sophisticated malware attack ta
 - **Unintended Consequences:** The autonomous nature of these agents raises the risk of unintended actions, such as affecting civilian infrastructure or misidentifying targets, which could lead to collateral damage.
 - **Lack of Accountability:** The deployment of autonomous AI agents without clear oversight may lead to challenges in accountability, especially if the agents operate outside established rules of engagement.
 - **Escalation of Cyber Conflicts:** The use of autonomous AI agents in cyber warfare could escalate conflicts, as adversaries may develop countermeasures or retaliatory actions, leading to an arms race in cyber capabilities.
+
+## Sources
+
+- [U.S. Army Developing Autonomous AI Agents for Cyber Warfare](https://www.tomshardware.com/tech-industry/artificial-intelligence/us-army-reportedly-developing-program-that-would-deploy-ai-agents-to-autonomously-seek-and-destroy-targets-in-enemy-digital-infrastructures-experts-warn-echotribble-program-could-have-disastrous-consequences)
