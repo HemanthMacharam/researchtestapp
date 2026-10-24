@@ -18,3 +18,23 @@ Sundial's platform utilizes advanced machine learning algorithms to process and 
 ## Practical Example
 
 Consider a scenario where a business needs to analyze customer behavior data to optimize its marketing strategies. With the integrated capabilities from Sundial, Meta's analytics platform could process vast amounts of customer interaction data in real-time, identifying patterns and trends that inform targeted marketing campaigns. This rapid analysis would enable businesses to make data-driven decisions promptly, enhancing their marketing effectiveness and customer engagement.
+
+## Use Cases
+
+- **E-commerce Optimization:** Retailers can leverage the enhanced analytics to understand purchasing behaviors, optimize inventory management, and personalize customer experiences.
+
+- **Financial Services:** Banks and financial institutions can analyze transaction data to detect fraudulent activities, assess credit risks, and tailor financial products to customer needs.
+
+- **Healthcare:** Medical organizations can process patient data to identify health trends, improve treatment plans, and streamline administrative processes.
+
+## Limitations / Risks
+
+- **Data Privacy Concerns:** Integrating advanced analytics platforms raises questions about data security and user privacy. Ensuring compliance with data protection regulations is essential to maintain user trust.
+
+- **Integration Challenges:** Merging Sundial's technology with Meta's existing systems may present technical challenges, including compatibility issues and the need for significant resources to ensure a smooth transition.
+
+- **Dependence on AI Models:** Over-reliance on AI-driven analytics could lead to overlooking nuanced human insights, potentially resulting in decisions that lack contextual understanding.
+
+## Sources
+
+- [Meta acquires AI data platform Sundial](https://www.axios.com/2026/10/23/meta-ai-data-platform-sundial)
