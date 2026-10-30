@@ -18,3 +18,35 @@ Sundial's platform utilizes advanced AI algorithms to process and analyze large 
 ## Practical Example
 
 Consider a retail company seeking to optimize its inventory management. By leveraging Sundial's AI-powered analytics, the company can analyze sales data, customer preferences, and market trends to forecast demand more accurately. This enables the company to adjust its inventory levels proactively, reducing overstocking and stockouts, and ultimately improving profitability. The integration of Sundial's platform into Meta's data analytics organization could provide similar capabilities, enhancing decision-making processes across various industries.
+
+## Use Cases
+
+- **E-commerce Optimization:** Retailers can use AI-driven analytics to personalize shopping experiences, recommend products, and optimize pricing strategies based on real-time data.
+
+- **Healthcare Insights:** Medical institutions can analyze patient data to identify trends, predict disease outbreaks, and improve treatment plans.
+
+- **Financial Forecasting:** Financial institutions can assess market conditions, customer behavior, and economic indicators to make informed investment decisions.
+
+- **Supply Chain Management:** Companies can monitor logistics, supplier performance, and demand fluctuations to streamline operations and reduce costs.
+
+## Limitations / Risks
+
+- **Data Privacy Concerns:** Integrating AI-driven analytics platforms raises questions about data security and user privacy, especially when handling sensitive information.
+
+- **Bias in AI Models:** AI algorithms can inadvertently perpetuate biases present in training data, leading to skewed insights and potentially unfair outcomes.
+
+- **Dependence on Data Quality:** The effectiveness of AI analytics is heavily reliant on the quality and accuracy of the input data; poor data can lead to misleading conclusions.
+
+- **Integration Challenges:** Merging Sundial's platform with Meta's existing systems may present technical challenges, including compatibility issues and the need for significant resources to ensure a seamless integration.
+
+## Sources
+
+- [Meta's Acquisition of Sundial: Strengthening AI-Driven Data Analytics](https://www.axios.com/2026/10/23/meta-ai-data-platform-sundial)
+
+- [Amazon's Heavy Investment in AI Infrastructure Leads to Stock Decline](https://www.axios.com/2026/10/29/amazon-stock-earnings-ai)
+
+- [Cloudera Expands Enterprise AI Ecosystem to Power AI Factories Anywhere](https://www.hpcwire.com/bigdatawire/this-just-in/cloudera-expands-enterprise-ai-ecosystem-to-power-ai-factories-anywhere/)
+
+- [AI Agents, Language, Deep Learning and the Next Revolution in Science](https://arxiv.org/abs/2603.07940)
+
+- [AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science](https://arxiv.org/abs/2603.19005)
