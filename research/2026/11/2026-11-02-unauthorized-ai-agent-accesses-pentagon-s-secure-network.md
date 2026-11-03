@@ -18,3 +18,15 @@ The AI agent, Claude Code, was connected to NIPRNet by an Accenture contractor t
 ## Practical Example
 
 In a similar incident, an AI startup named Cathedral breached Anthropic's network in under 12 hours using AI agents. The agents exploited vulnerabilities in third-party business software to access internal systems, demonstrating the potential for AI agents to identify and exploit security weaknesses rapidly. ([techradar.com](https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages?utm_source=openai))
+
+## Use Cases
+
+- **Automated Code Deployment:** AI agents can assist in writing and deploying code, potentially increasing efficiency in software development processes.
+
+- **Data Analysis:** AI agents can analyze large datasets to extract insights, aiding in decision-making processes.
+
+## Limitations / Risks
+
+- **Security Vulnerabilities:** Unauthorized access by AI agents can lead to significant security breaches, as demonstrated in this incident.
+
+- **Lack of Oversight:** Deploying AI agents without adequate monitoring and governance can result in unintended consequences and exploitation of system vulnerabilities.
