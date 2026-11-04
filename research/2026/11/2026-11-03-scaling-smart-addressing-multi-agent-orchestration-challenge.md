@@ -104,3 +104,45 @@ By addressing these challenges through strategic design and implementation, the 
 - **Security Concerns:** Managing access controls and ensuring the security of data shared among agents is critical to prevent unauthorized access and data breaches.
 
 - **Dependence on Human Oversight:** Despite automation, human oversight remains essential to monitor agent activities, intervene when necessary, and ensure that the system operates within desired parameters.
+
+## Sources
+
+- [Scaling smart: How LLM developers are solving multi-agent orchestration bottlenecks](https://www.techradar.com/pro/scaling-smart-how-llm-developers-are-solving-multi-agent-orchestration-bottlenecks)
+
+- [Why 'never trust, always verify - repeatably' security strategy for AI Agents, starts after login](https://www.techradar.com/pro/why-never-trust-always-verify-repeatably-security-strategy-for-ai-agents-starts-after-login)
+
+- [Report claims AI is recommending risky security moves — so maybe you shouldn't hand over full control of your systems just yet](https://www.techradar.com/pro/security/report-claims-ai-is-recommending-risky-security-moves-so-maybe-you-shouldnt-hand-over-full-control-of-your-systems-just-yet)
+
+- [The hidden cost of AI is now governance](https://www.itpro.com/technology/artificial-intelligence/the-hidden-cost-of-ai-is-now-governance)
+
+- [Google enters new era of AI for data with launch of agents](https://www.techtarget.com/news/Google-enters-new-era-of-AI-for-data-with-launch-of-agents/842606/)
+
+- [Google intros agent building tools and an agent protocol](https://www.techtarget.com/news/Google-intros-agent-building-tools-and-an-agent-protocol/834419/)
+
+- [AI agents increasingly viable for enterprise use](https://www.techtarget.com/news/AI-agents-increasingly-viable-for-enterprise-use/834347/)
+
+- [Agentist — a daily on the agent frontier](https://agentist.org/)
+
+- [The rise of agentic AI in drug discovery from static tools to autonomous virtual scientists](https://pmc.ncbi.nlm.nih.gov/articles/PMC13658227/)
+
+- [Informatica to build agents, foster agentic AI development](https://www.techtarget.com/news/Informatica-to-build-agents-foster-agentic-AI-development/842563/)
+
+- [AI Agents and Their Market Trends](https://www.precedenceresearch.com/insights/ai-agent-market-trends-key-players-report)
+
+- [Multimodal Agent AI: A Survey of Recent Advances and Future Directions](https://www.sciopen.com/article/10.1007/s11390-025-4802-8)
+
+- [LLM agents research map · Multi-agent systems and games papers, approaches and trends (ICML, NeurIPS, ICLR, CVPR, AAAI 2016–2026) · scime atlas](https://atlas.scime.ai/research/multi-agent-systems-and-games/llm-agents)
+
+- [CrowdStrike Launches Agentic Security Workforce to Transform the SOC](https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-seven-agents-to-build-agentic-security-workforce/)
+
+- [The Multiplayer Agent Era · Agent Brief](https://news.agentcommunity.org/issues/2026-08-31-the-multiplayer-agent)
+
+- [Teradata unveils AgentBuilder for autonomous AI agent development](https://www.investing.com/news/company-news/teradata-unveils-agentbuilder-for-autonomous-ai-agent-development-93CH-4251452)
+
+- [LLM-Based Data Science Agents: A Survey of Capabilities, Challenges, and Future Directions](https://arxiv.org/abs/2510.04023)
+
+- [AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science](https://arxiv.org/abs/2603.19005)
+
+- [Large Language Model-based Data Science Agent: A Survey](https://arxiv.org/abs/2508.02744)
+
+- [Recent Advances and Applications of Deep Learning Methods in Materials Science](https://arxiv.org/abs/2110.14820)
