@@ -82,3 +82,25 @@ Consider a multi-agent LLM system designed to automate the process of generating
 - **Detailed Logs:** Comprehensive logging mechanisms were established to monitor agent activities, facilitate debugging, and provide an audit trail for system operations.
 
 By addressing these challenges through strategic design and implementation, the multi-agent LLM system was optimized for reliability, efficiency, and scalability, effectively automating the code generation and validation process.
+
+## Use Cases
+
+- **Automated Content Creation:** Multi-agent LLM systems can be employed to generate and edit content across various domains, such as journalism, marketing, and entertainment, by coordinating specialized agents for research, writing, and editing tasks.
+
+- **Customer Support Automation:** In customer service, multi-agent systems can manage inquiries by delegating tasks like information retrieval, response generation, and issue resolution to different agents, enhancing efficiency and response times.
+
+- **Software Development Assistance:** Developers can utilize multi-agent LLMs to automate aspects of the software development lifecycle, including code generation, testing, and documentation, by leveraging specialized agents for each task.
+
+- **Data Analysis and Reporting:** In data science, multi-agent systems can automate data cleaning, analysis, and reporting processes by assigning tasks to agents with expertise in different analytical methods and tools.
+
+## Limitations / Risks
+
+- **Complexity in Management:** Coordinating multiple agents introduces complexity in management, requiring robust orchestration mechanisms and oversight to ensure smooth operation.
+
+- **Increased Resource Consumption:** The need for extensive data exchange and processing among agents can lead to higher computational and storage requirements, impacting system performance and cost.
+
+- **Potential for Error Propagation:** Errors introduced by one agent can propagate through the system, leading to compounded mistakes in the final output, necessitating effective error detection and correction mechanisms.
+
+- **Security Concerns:** Managing access controls and ensuring the security of data shared among agents is critical to prevent unauthorized access and data breaches.
+
+- **Dependence on Human Oversight:** Despite automation, human oversight remains essential to monitor agent activities, intervene when necessary, and ensure that the system operates within desired parameters.
